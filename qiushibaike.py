@@ -2,7 +2,6 @@
 __author__ = 'konglin'
 import urllib
 import re
-import time
 
 #糗事百科爬虫
 class QSBK:
